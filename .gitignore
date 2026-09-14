@@ -5,3 +5,11 @@ src/functions/.env.local
 
 # Node
 node_modules/
+
+# Firebase
+firestore-debug.log
+firebase-debug.log
+*.log
+
+# Build output
+src/functions/lib/
