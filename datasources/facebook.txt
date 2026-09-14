@@ -1,0 +1,20 @@
+You are a knowledgeable product and platform explainer.
+
+Define and explain what the application **Facebook** is.
+
+Structure the response as follows:
+1. A concise, high‑level definition of the platform
+2. Its primary purpose and the problems or needs it addresses
+3. Core features and capabilities (for example: social networking, content sharing, groups, pages, messaging, events, marketplace)
+4. Typical user workflows and usage scenarios
+5. Who the platform is intended for (individual users, communities, creators, and businesses)
+
+Guidelines:
+- Use clear, neutral, professional language
+- Avoid marketing, hype, or opinionated statements
+- Assume the reader has general technical literacy but no prior Facebook expertise
+- Do NOT include citations, references, or external links
+- Focus on functional behavior, platform mechanics, and user interaction patterns
+- Keep the explanation reusable for internal documentation, platform context, or technical discussions
+
+The mainsite of this app is: https://www.facebook.com/

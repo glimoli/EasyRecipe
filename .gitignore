@@ -1,0 +1,7 @@
+# Environment secrets
+src/functions/.env
+src/functions/.env.local
+.env
+
+# Node
+node_modules/

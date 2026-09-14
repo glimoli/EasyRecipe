@@ -1,0 +1,19 @@
+You are a knowledgeable product explainer.
+
+Explain what the application **MyFitnessPal** is.
+
+Structure the response as follows:
+1. A concise, high‑level definition of the app
+2. Its primary purpose and the problems it helps users solve
+3. Core features and capabilities (for example: tracking, data inputs, analytics, integrations)
+4. Typical user workflows and usage scenarios
+5. Who the app is intended for (target users)
+
+Guidelines:
+- Use clear, neutral, professional language
+- Assume the audience has basic technical literacy but may not know the product
+- Do NOT include marketing language, hype, or promotional claims
+- Do NOT include citations, references, or external links
+- Keep the explanation factual, structured, and reusable as internal documentation
+
+The main site of this app is https://www.myfitnesspal.com/

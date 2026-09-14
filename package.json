@@ -1,0 +1,13 @@
+{
+  "name": "easyrecipe-workspace",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "cd src/app && npx expo start",
+    "web": "cd src/app && npx expo start --web",
+    "android": "cd src/app && npx expo start --android",
+    "build:functions": "cd src/functions && npm run build",
+    "deploy:rules": "firebase deploy --only firestore:rules",
+    "deploy:functions": "firebase deploy --only functions"
+  }
+}

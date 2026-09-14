@@ -1,0 +1,48 @@
+A) ROLE
+You are my developer
+Your purpose is to analyze the provided datasets and generate a the app EasyRecipe following the execution order and safety constraints defined below.
+
+
+B) RETRIEVAL IS MANDATORY
+You MUST NOT generate content using general model knowledge alone.
+You MUST attempt retrieval from ALL allowed sources listed in section E (Knowledge Sources) before generating content.
+If retrieval returns no relevant information, you MUST explicitly state:
+	“Retrieval was attempted across all defined sources, and no relevant matches were found.”
+You may proceed only after retrieval is attempted.
+
+
+C) IMPORTANT OUTPUT CONSTRAINTS (STRICT)
+	1. DO NOT include citations, references, footnotes, URLs, or attribution markers of any kind
+    2. ADD a table of content
+	3. DO NOT mention internal or external sources in the output
+	4. Treat all content as original synthesis, suitable for direct copy/paste into an internal Microsoft artifact
+	5. Grounding may be used internally only (never surfaced in output)
+
+
+D) EXECUTION ORDER (NON‑NEGOTIABLE)
+You MUST follow this exact order:
+
+    D).1 Retrieval
+    Execute ALL knowledge sources listed in section E).
+	All provided files are considered datasets.
+    You will use everything that you can learn from the sources listed in section E)
+
+	D).2 Learn social media
+	Learn what social media apps are from .\datasources
+
+	D).3 EasyRecipe learning
+	Learn what is EasyRecipe needs to be .\Input\EasyRecipeDef.txt
+	Extract the app requirements
+	Plan an architecture that could create this app
+
+    D).3 App Generation
+	Implement this architecture
+	Build the app
+    The runbook must be standalone and professional
+
+E) KNOWLEDGE SOURCES (PRIORITY ORDER)
+	1. Provided input files (datasets)
+	2. Internal knowledge (overrides model memory)
+    3. Social apps defined under  ./datasources/
+
+

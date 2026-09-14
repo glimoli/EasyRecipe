@@ -1,0 +1,20 @@
+You are a knowledgeable product and platform explainer.
+
+Define and explain what the application **Instagram** is.
+
+Structure the response as follows:
+1. A concise, high‑level definition of the platform
+2. Its primary purpose and the problems or needs it addresses
+3. Core features and capabilities (for example: photo/video sharing, feeds, stories, reels, messaging, engagement)
+4. Typical user workflows and usage scenarios
+5. Who the platform is intended for (types of users, creators, and businesses)
+
+Guidelines:
+- Use clear, neutral, professional language
+- Avoid marketing, hype, or opinionated statements
+- Assume the reader has general technical literacy but no prior Instagram expertise
+- Do NOT include citations, references, or external links
+- Focus on functional behavior, platform mechanics, and user interaction patterns
+- Keep the explanation reusable for internal documentation, product context, or technical discussions
+
+The main site of this app is: https://www.instagram.com/

@@ -1,0 +1,31 @@
+EasyRecipe is a recipe-importing and organization application designed to extract cooking instructions from external sources.
+
+EasyRecipe allows users to import recipes directly from:
+- TikTok
+- Instagram
+- YouTube
+- Pinterest
+- Facebook
+- Recipe websites and blogs
+- Images or screenshots of recipes
+
+The application automatically parses and structures imported content into:
+- Ingredients lists
+- Step-by-step cooking instructions
+- Serving sizes and measurements
+
+EasyRecipe is not an AI recipe generator. It does not create new recipes however could provide suggestions on how make variations of an existing recipe.
+Its core purpose is to convert existing recipes from social media and web sources into a clean, readable, and reusable cooking format.
+
+Additional capabilities include:
+- Organizing recipes into cookbooks and categories
+- Scaling ingredient quantities by serving size
+- Show each recipe in multiple serving sizes like tbsp, tsp, cup, gr, liters etc
+- Converting measurements (metric ↔ imperial)
+- Meal planning
+- Generating grocery lists from saved recipes
+- Nutrition calculations similar as the app MyFitnessPal
+
+This app need to work in Android phones but it should also have a web interface. As for the database where the information of this app will be, this should be store in google drive.
+
+Use this definition when EasyRecipe is referenced as a recipe extraction, storage, and cooking workflow tool.

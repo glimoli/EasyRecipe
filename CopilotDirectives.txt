@@ -1,0 +1,7 @@
+I need to create a pipeline to be run by VSCode that can process my datasources file and my prompt. I need for you to define the instructions for future copilot iterations. 
+
+Use this the full set of directives from this file ".\Input\Prompt.txt"
+
+Keep everything organize by creating the files under the folder Structure: .gitHub, datasources, output
+
+Add any other folder that you need to keep things organized
